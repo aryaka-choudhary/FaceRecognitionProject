@@ -11,7 +11,8 @@ This is a Face Recognition-based web application. It primarily makes use of the 
 
 ### Installation :
 1) Clone this repository using git clone https://github.com/aryaka-choudhary/FaceRecognitionProject.git
-2)Use the package manager [pip](https://pip.pypa.io/en/stable/) to install flask.
+
+2) Use the package manager [pip](https://pip.pypa.io/en/stable/) to install flask.
 
 ```bash
 pip install flask
